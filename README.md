@@ -25,13 +25,13 @@
   <a href="https://www.linkedin.com/in/fayaz921" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/profile.php?id=61578397086199" target="_blank">
+  <!-- <a href="https://www.facebook.com/profile.php?id=61578397086199" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook"/>
-  </a>
+  </a> -->
   <a href="https://www.instagram.com/dev_mfm/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
   </a>
-  <a href="https://leetcode.com/" target="_blank">
+  <a href="https://leetcode.com/u/esWg4gV3I2/" target="_blank">
     <img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="LeetCode"/>
   </a>
 </p>
