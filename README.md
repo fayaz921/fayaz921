@@ -60,7 +60,7 @@
 
 ---
 
-## 🐍 Random Snake Animation (Just for Fun)
+## 🐍 Aesthetic Snake Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
