@@ -60,10 +60,11 @@
 
 ---
 
-## 🐍 Neon Snake Animation (Aesthetic)
+## 🎮 Retro Snake Game (Random)
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="520">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500">
 </p>
+
 
 
 ---
