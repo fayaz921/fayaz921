@@ -60,9 +60,10 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 Neon Snake Animation (Aesthetic)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fayaz921/fayaz921/output/snake.svg" alt="Snake animation" />
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="520">
 </p>
+
 
 ---
