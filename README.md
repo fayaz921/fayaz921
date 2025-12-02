@@ -40,7 +40,7 @@
 
 ## 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,html,css,bootstrap,js,jquery,php,mysql,sqlserver,git,github,cpp" height="45" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,html,css,bootstrap,js,jquery,php,mysql,git,github,cpp" height="45" />
 </p>
 
 ---
