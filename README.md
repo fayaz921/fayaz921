@@ -49,7 +49,7 @@
 
 ### Frameworks & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,blazor,bootstrap,jquery" height="45" />
+  <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,jquery" height="45" />
 </p>
 
 ### Databases & Tools
@@ -124,14 +124,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=fayaz921&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" height="180"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fayaz921&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
