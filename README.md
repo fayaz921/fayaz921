@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 - 🎓 **BS Computer Science** Graduate from Gomal University (CGPA: 3.93/4.00)
-- 💼 **Full-Stack .NET Developer** at Netrex Solutions (Part-Time, May 2024 - Present)
+- 💼 **Full-Stack .NET Developer** at Netrex Solutions (Part-Time, January 2025 - Present)
 - 🔥 Building scalable web applications with **ASP.NET Core, Blazor, Web APIs & Clean Architecture**
 - 🌱 Currently working on **Netrex E-Commerce Platform** (ASP.NET 9 Web API + Blazor)
 - 🧠 **Dev Weekends Career Mentorship Program** (2025-26 Cohort) - Enhancing DSA & Backend Skills
