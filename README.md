@@ -14,7 +14,7 @@
 - 🎓 **BS Computer Science**  (CGPA: 3.93/4.00)
 - 💼 **Full-Stack .NET Developer** at Netrex Solutions ( January 2025 - Present)
 - 🔥 Building scalable web applications with **ASP.NET Core, Blazor, Web APIs & Clean Architecture**
-- 🌱 Currently working on **Netrex E-Commerce Platform** (ASP.NET 9 Web API + Blazor)
+- 🌱 Currently working on **Litigation Tracking System (LTS)** (ASP.NET 10 Web API + Nextjs)
 - 🧠 **Dev Weekends Career Mentorship Program** (2025-26 Cohort) - Enhancing DSA & Backend Skills
 - 💬 Ask me about **C#, ASP.NET Core, Entity Framework, SQL Server, RESTful APIs**
 - 📫 Reach me: **mfayaz21703@gmail.com**
