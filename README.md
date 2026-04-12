@@ -13,6 +13,7 @@
 
 - 🎓 **BS Computer Science**  (CGPA: 3.93/4.00)
 - 💼 **Full-Stack .NET Developer** at Netrex Solutions ( January 2025 - Present)
+- 💼 **Full-Stack .NET + Reactjs intern** at 10pearls Pakistan ( April 2026 - Present)
 - 🔥 Building scalable web applications with **ASP.NET Core, Blazor, Web APIs & Clean Architecture**
 - 🌱 Currently working on **Litigation Tracking System (LTS)** (ASP.NET 10 Web API + Nextjs)
 - 🧠 **Dev Weekends Career Mentorship Program** (2025-26 Cohort) - Enhancing DSA & Backend Skills
