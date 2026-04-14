@@ -19,14 +19,13 @@
 - 🧠 **Dev Weekends Career Mentorship Program** (2025-26 Cohort) - Enhancing DSA & Backend Skills
 - 💬 Ask me about **C#, ASP.NET Core, Entity Framework, SQL Server, RESTful APIs**
 - 📫 Reach me: **mfayaz21703@gmail.com**
-- 🌐 Portfolio: **[muhammad-fayaz.gamma.site](https://muhammad-fayaz-g1whlsd.gamma.site/)**
 - 📍 Based in Dera Ismail Khan, Pakistan | **Open to relocate**
 
 ---
 
 ## 💼 Professional Experience
 
-### 🔹 Netrex Solutions | Full-Stack .NET Developer (Part-Time)
+### 🔹 Netrex Solutions | Full-Stack .NET Developer 
 **May 2024 - Present**
 - Developed scalable web applications using **ASP.NET Core, MVC, and Web API**
 - Built RESTful APIs with **JWT authentication** for secure access control
