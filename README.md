@@ -17,7 +17,7 @@
 - 🔥 Building scalable web applications with **ASP.NET Core, Blazor,React, Web APIs & Clean Architecture**
 - 🌱 Currently working on **Litigation Tracking System (LTS)** (ASP.NET 10 Web API + Nextjs)
 - 🧠 **Dev Weekends Career Mentorship Program** (2025-26 Cohort) - Enhancing DSA & Backend Skills
-- 💬 Ask me about **C#, ASP.NET Core, Entity Framework, SQL Server, RESTful APIs**
+- 💬 Ask me about **C#, ASP.NET Core, Entity Framework, SQL Server, RESTful APIs,Blazor,React**
 - 📫 Reach me: **mfayaz21703@gmail.com**
 - 📍 Based in Dera Ismail Khan, Pakistan | **Open to relocate**
 
