@@ -31,14 +31,14 @@ var fayaz = new Developer
     Name        = "Muhammad Fayaz",
     Location    = "Dera Ismail Khan, Pakistan",
     CurrentRole = new[] {
-        ".NET Fullstack Intern @ 10Pearls Pakistan (Shine Cohort 8)",
+        ".NET Fullstack Intern @ 10Pearls Pakistan ",
         "Tech Lead @ Litigation Tracking System (LTS)"
     },
     PreviousRole = "Full-Stack .NET Developer @ Netrex Solutions",
     Education    = "BS Computer Science — CGPA 3.93/4.00",
     Stack        = new[] { "ASP.NET Core", "React", "Blazor", "PostgreSQL", "CQRS" },
     Architecture = new[] { "Clean Architecture", "Vertical Slice", "CQRS", "Repository Pattern" },
-    OpenTo       = "Remote .NET / Fullstack Roles",
+    OpenTo       = ".NET / Fullstack Roles",
     Email        = "mfayaz21703@gmail.com"
 };
 ```
@@ -55,7 +55,7 @@ var fayaz = new Developer
 **.NET Fullstack Intern**
 `Apr 2026 – Present` | Remote
 
-Selected for **Shine Internship Program (Cohort 8)** — AI-powered 8-week virtual program. Building full-stack apps with **ASP.NET Core + ReactJS**.
+Selected for **Shine Internship Program ** — AI-powered 8-week virtual program. Building full-stack apps with **ASP.NET Core + ReactJS**.
 
 </td>
 <td width="50%">
