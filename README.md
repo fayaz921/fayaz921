@@ -53,7 +53,7 @@ var fayaz = new Developer
 
 ### 🔵 10Pearls Pakistan
 **.NET Fullstack Intern**
-`Apr 2026 – Present` | Remote
+`Apr 2026 – Present` | Remote |Islamabad 
 
 Selected for **Shine Internship Program ** — AI-powered 8-week virtual program. Building full-stack apps with **ASP.NET Core + ReactJS**.
 
