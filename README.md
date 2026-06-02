@@ -31,7 +31,6 @@ var fayaz = new Developer
     Name        = "Muhammad Fayaz",
     Location    = "Islamabad, Pakistan",
     CurrentRole = new[] {
-        ".NET Fullstack Intern @ 10Pearls Pakistan ",
         "Tech Lead @ Litigation Tracking System (LTS)"
     },
     PreviousRole = "Full-Stack .NET Developer @ Netrex Solutions",
