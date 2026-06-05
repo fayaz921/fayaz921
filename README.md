@@ -250,15 +250,6 @@ Built CRUD modules, To-Do app, and role-based **Admin & User Panel** using ASP.N
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
