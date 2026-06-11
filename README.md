@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ASP.NET+Core+%7C+React+%7C+Blazor;Clean+Architecture+%7C+CQRS+%7C+MediatR;Building+SaaS+Platforms+%26+Web+APIs;Tech+Lead+%40+LTS+%7C+Intern+%40+10Pearls)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ASP.NET+Core+%7C+React+%7C+Blazor;Clean+Architecture+%7C+CQRS+%7C+MediatR;Building+SaaS+Platforms+%26+Web+APIs;Tech+Lead+%40+LTS)](https://git.io/typing-svg)
 
 </div>
 
@@ -51,10 +51,10 @@ var fayaz = new Developer
 <td width="50%">
 
 ### 🔵 10Pearls Pakistan
-**.NET Fullstack Intern**
-`Apr 2026 – June 2026` | Remote |Islamabad 
+**.NET Fullstack Developer**
+`Apr 2026 – Jun 2026` | Remote
 
- Building full-stack apps with **ASP.NET Core + ReactJS**.
+Built a fullstack application using **ASP.NET Core** and **ReactJS** covering JWT authentication, role-based access control, exception handling, logging with **Serilog**, and unit testing with **xUnit** and **SonarQube**.
 
 </td>
 <td width="50%">
@@ -63,7 +63,7 @@ var fayaz = new Developer
 **Full-Stack .NET Developer**
 `Jan 2025 – Mar 2026` | DI Khan, Pakistan
 
-Built production web apps, RESTful APIs, Blazor frontends, and desktop systems. Applied **Clean Architecture** across multiple client projects.
+Built fullstack web applications and RESTful APIs using **ASP.NET Core**, **Blazor**, and **EF Core**. Applied **Clean Architecture** and worked with **SQL Server** and **PostgreSQL** across multiple projects.
 
 </td>
 </tr>
@@ -74,16 +74,16 @@ Built production web apps, RESTful APIs, Blazor frontends, and desktop systems. 
 **Full-Stack .NET Developer Intern**
 `Dec 2025` | Remote
 
-Built CRUD modules, To-Do app, and role-based **Admin & User Panel** using ASP.NET Core and Blazor.
+Built fullstack application with JWT authentication, role-based access control, and a complete **Admin & User Panel** using ASP.NET Core and Blazor.
 
 </td>
 <td width="50%">
 
 ### 🔵 Dev Weekends
-**Software Engineering Mentee**
-`Nov 2025 – Mar 2026` | Remote
+**Software Engineer**
+`Nov 2025 – Present` | Remote
 
-30 DSA sessions + 12 engineering weekends. 1:1 mentorship on system design, backend practices, and mock interviews.
+Part of the Dev Weekends community working on DSA, system design, full stack engineering practices, AI integration, DevOps, and advanced engineering concepts under guidance of experienced mentors.
 
 </td>
 </tr>
@@ -116,7 +116,7 @@ Built CRUD modules, To-Do app, and role-based **Admin & User Panel** using ASP.N
 <td width="50%">
 
 ### 🛒 Netrex E-Commerce Platform
-> Multi-Module Production E-Commerce System
+> Multi-Module E-Commerce System
 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
@@ -193,6 +193,7 @@ Built CRUD modules, To-Do app, and role-based **Admin & User Panel** using ASP.N
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-2C3E50?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
@@ -249,7 +250,6 @@ Built CRUD modules, To-Do app, and role-based **Admin & User Panel** using ASP.N
 </div>
 
 ---
-
 
 ## 🌐 Connect With Me
 
