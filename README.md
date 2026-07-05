@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ASP.NET+Core+%7C+React+%7C+Blazor;Clean+Architecture+%7C+CQRS+%7C+MediatR;Building+SaaS+Platforms+%26+Web+APIs;Tech+Lead+%40+LTS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ASP.NET+Core+%7C+React+%7C+Blazor;Clean+Architecture+%7C+CQRS+%7C+MediatR;Building+SaaS+Platforms+%26+Web+APIs;AWS+DevArena+2026+Winner+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 </div>
 
@@ -31,16 +31,30 @@ var fayaz = new Developer
     Name        = "Muhammad Fayaz",
     Location    = "Islamabad, Pakistan",
     CurrentRole = new[] {
-        "Tech Lead @ Litigation Tracking System (LTS)"
+        "Lead Developer @ LTS — SaaS Case Management Platform"
     },
     PreviousRole = "Full-Stack .NET Developer @ Netrex Solutions",
     Education    = "BS Computer Science — CGPA 3.93/4.00",
+    Achievement  = "AWS DevArena 2026 Winner 🏆",
     Stack        = new[] { "ASP.NET Core", "React", "Blazor", "PostgreSQL", "CQRS" },
     Architecture = new[] { "Clean Architecture", "Vertical Slice", "CQRS", "Repository Pattern" },
+    AITools      = new[] { "Claude", "Cursor", "GitHub Copilot", "Lovable", "Codex" },
     OpenTo       = ".NET / Fullstack Roles",
     Email        = "mfayaz21703@gmail.com"
 };
 ```
+
+---
+
+## 🏆 Awards & Achievements
+
+<div align="center">
+
+[![AWS DevArena](https://img.shields.io/badge/AWS_DevArena_2026-Winner_🏆-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.linkedin.com/posts/muhammad-fayaz-10b73434b_winners-foundation-innovation-activity-7463534111673044992-WAa1)
+
+</div>
+
+Won **AWS DevArena 2026** for **Litigation Tracking System (LTS)** — a SaaS case management platform built for law firms and legal departments.
 
 ---
 
@@ -50,13 +64,24 @@ var fayaz = new Developer
 <tr>
 <td width="50%">
 
+### 🔵 LTS — Litigation Tracking System
+**Lead Developer**
+`Apr 2026 – Present` | Remote
+
+Building a **SaaS case management platform** for law firms with a 7-member team. Architected Vertical Slice + CQRS backend and Feature Sliced Design frontend. Won **AWS DevArena 2026** for this project.
+
+</td>
+<td width="50%">
+
 ### 🔵 10Pearls Pakistan
 **.NET Fullstack Developer**
 `Apr 2026 – Jun 2026` | Remote
 
-Built a fullstack application using **ASP.NET Core** and **ReactJS** covering JWT authentication, role-based access control, exception handling, logging with **Serilog**, and unit testing with **xUnit** and **SonarQube**.
+Built a fullstack application using **ASP.NET Core** and **ReactJS** covering JWT auth, role-based access control, logging with **Serilog**, and unit testing with **xUnit** and **SonarQube**.
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🔵 Netrex Solutions
@@ -66,24 +91,13 @@ Built a fullstack application using **ASP.NET Core** and **ReactJS** covering JW
 Built fullstack web applications and RESTful APIs using **ASP.NET Core**, **Blazor**, and **EF Core**. Applied **Clean Architecture** and worked with **SQL Server** and **PostgreSQL** across multiple projects.
 
 </td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔵 FutureXcel
-**Full-Stack .NET Developer Intern**
-`Dec 2025` | Remote
-
-Built fullstack application with JWT authentication, role-based access control, and a complete **Admin & User Panel** using ASP.NET Core and Blazor.
-
-</td>
 <td width="50%">
 
 ### 🔵 Dev Weekends
 **Software Engineer**
 `Nov 2025 – Present` | Remote
 
-Part of the Dev Weekends community working on DSA, system design, full stack engineering practices, AI integration, DevOps, and advanced engineering concepts under guidance of experienced mentors.
+Part of the Dev Weekends community working on DSA, system design, full stack engineering, AI integration, and DevOps under guidance of experienced mentors.
 
 </td>
 </tr>
@@ -98,17 +112,17 @@ Part of the Dev Weekends community working on DSA, system design, full stack eng
 <td width="50%">
 
 ### ⚖️ Litigation Tracking System (LTS)
-> SaaS Case Management Platform for Law Firms
+> SaaS Case Management Platform for Law Firms — 🏆 AWS DevArena 2026 Winner
 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React+TS-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-- 🏗️ **Tech Lead** — architected Vertical Slice + CQRS backend
-- ⚛️ React + Vite + TypeScript with Feature Sliced Design
+- 🏗️ **Lead Developer** — architected Vertical Slice + CQRS backend
+- ⚛️ React + Vite + TypeScript with Feature Sliced Design + Zustand
 - ⚙️ MediatR · Hangfire · FluentValidation · Serilog
 - 🗄️ PostgreSQL live on **Neon** · Cloudinary for files
-- 📋 Jira · Agile/Scrum team management
+- 📋 Jira · Agile/Scrum · 7-member team
 
 [🔗 API](https://github.com/fayaz921/LTS-API) · [🔗 Client](https://github.com/fayaz921/LTS-Client)
 
@@ -209,6 +223,13 @@ Part of the Dev Weekends community working on DSA, system design, full stack eng
 ![CQRS](https://img.shields.io/badge/CQRS-2C3E50?style=for-the-badge)
 ![Vertical Slice](https://img.shields.io/badge/Vertical_Slice-2C3E50?style=for-the-badge)
 ![Agile](https://img.shields.io/badge/Agile/Scrum-2C3E50?style=for-the-badge)
+
+### AI Tools
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
