@@ -31,6 +31,7 @@ var fayaz = new Developer
     Name        = "Muhammad Fayaz",
     Location    = "Islamabad, Pakistan",
     CurrentRole = new[] {
+        "Software Engineer _ HBL MFB "
         "Lead Developer @ LTS — SaaS Case Management Platform"
     },
     PreviousRole = "Full-Stack .NET Developer @ Netrex Solutions",
