@@ -34,7 +34,7 @@ var fayaz = new Developer
         "Software Engineer _ HBL MFB "
         "Lead Developer @ LTS — SaaS Case Management Platform"
     },
-    PreviousRole = "Full-Stack .NET Developer @ Netrex Solutions",
+    PreviousRole = "Full-Stack .NET Developer @ Netrex Solutions , Full Stack Intern(.Net + React) _ 10pearls Pakistan",
     Education    = "BS Computer Science — CGPA 3.93/4.00",
     Achievement  = "AWS DevArena 2026 Winner 🏆",
     Stack        = new[] { "ASP.NET Core", "React", "Blazor", "PostgreSQL", "CQRS" },
