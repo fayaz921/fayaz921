@@ -263,16 +263,6 @@ Part of the Dev Weekends community working on DSA, system design, full stack eng
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fayaz921&theme=github-compact&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
